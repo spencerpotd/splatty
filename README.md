@@ -4,10 +4,6 @@
 
 A minimal example project demonstrating Gaussian splat streaming with [SparkJS](https://github.com/sparkjsdev/spark). It now follows Spark 2.0 preview LoD guidance with quality-first tuning for Chrome on Apple Silicon M2.
 
-## Live Demo
-
-[https://sparklodstream.netlify.app/](https://sparklodstream.netlify.app/)
-
 ## Features
 
 - **Spark 2.0 LoD**: Uses `SparkRenderer` + tuned LoD settings (`lodSplatScale`, `lodRenderScale`, cone/behind foveation)
