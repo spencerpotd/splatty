@@ -1,0 +1,21 @@
+{
+  "name": "lodstream",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "node-pty": "^1.1.0",
+    "three": "^0.180.0",
+    "ws": "^8.19.0",
+    "xterm": "^5.3.0",
+    "xterm-addon-fit": "^0.8.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
